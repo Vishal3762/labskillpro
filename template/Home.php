@@ -232,8 +232,8 @@
       <div class="col-md-4">
         <div class="course-card">
           <div class="course-icon"><i class="bi bi-code-slash"></i></div>
-          <div class="course-title">Web Development</div>
-          <div class="course-desc">HTML, CSS, JS & frameworks to build modern websites.</div>
+          <div class="course-title">QC Professional</div>
+          <div class="course-desc">Master quality control techniques for industrial & lab processes.</div>
           <a href="#" class="enroll-btn">Enroll Now</a>
         </div>
       </div>
@@ -242,8 +242,8 @@
       <div class="col-md-4">
         <div class="course-card">
           <div class="course-icon"><i class="bi bi-phone"></i></div>
-          <div class="course-title">App Development</div>
-          <div class="course-desc">Learn to create Android & iOS apps with real projects.</div>
+          <div class="course-title">QA Professional</div>
+          <div class="course-desc">Learn quality assurance methods to ensure top product standards.</div>
           <a href="#" class="enroll-btn">Enroll Now</a>
         </div>
       </div>
@@ -252,8 +252,8 @@
       <div class="col-md-4">
         <div class="course-card">
           <div class="course-icon"><i class="bi bi-pc-display"></i></div>
-          <div class="course-title">UI/UX Design</div>
-          <div class="course-desc">Design beautiful and user-friendly interfaces.</div>
+          <div class="course-title">QA/QC Professional</div>
+          <div class="course-desc">Get dual expertise in quality assurance & control systems.</div>
           <a href="#" class="enroll-btn">Enroll Now</a>
         </div>
       </div>
@@ -262,8 +262,8 @@
       <div class="col-md-4">
         <div class="course-card">
           <div class="course-icon"><i class="bi bi-bar-chart-line"></i></div>
-          <div class="course-title">Data Science</div>
-          <div class="course-desc">Master Python, ML, and data visualization.</div>
+          <div class="course-title">R&D Professional</div>
+          <div class="course-desc">Develop innovation skills with real-world research & development training.</div>
           <a href="#" class="enroll-btn">Enroll Now</a>
         </div>
       </div>
@@ -272,8 +272,8 @@
       <div class="col-md-4">
         <div class="course-card">
           <div class="course-icon"><i class="bi bi-lock"></i></div>
-          <div class="course-title">Cyber Security</div>
-          <div class="course-desc">Protect systems and networks from attacks.</div>
+          <div class="course-title">GMP & GLP Training</div>
+          <div class="course-desc">Understand Good Manufacturing & Lab Practices for regulated industries.</div>
           <a href="#" class="enroll-btn">Enroll Now</a>
         </div>
       </div>
@@ -282,8 +282,8 @@
       <div class="col-md-4">
         <div class="course-card">
           <div class="course-icon"><i class="bi bi-globe"></i></div>
-          <div class="course-title">Digital Marketing</div>
-          <div class="course-desc">Grow brands online with SEO, Ads, and SMM.</div>
+          <div class="course-title">Regulatory Affairs</div>
+          <div class="course-desc">Learn compliance, documentation, and global pharma regulations.</div>
           <a href="#" class="enroll-btn">Enroll Now</a>
         </div>
       </div>

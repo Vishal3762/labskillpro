@@ -28,26 +28,26 @@
                <div class="row g-3">
                   <!-- Logo 1 -->
                   <div class="col-4 col-sm-4 col-6 text-center">
-                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 17.png" alt="Partner 1"
+                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/client/hiring-p4.png" alt="Partner 1"
                         class="img-fluid hiring-logo1">
                   </div>
                   <!-- Logo 2 -->
                   <div class="col-4 col-sm-4 col-6 text-center">
-                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 21.png" alt="Partner 2"
+                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/client/hiring-p2.png" alt="Partner 2"
                         class="img-fluid hiring-logo1">
                   </div>
                   <!-- Logo 3 -->
                   <div class="col-4 col-sm-4 col-6 text-center">
-                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 19.png" alt="Partner 3"
+                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/client/hiring-p1.png" alt="Partner 3"
                         class="img-fluid hiring-logo1">
                   </div>
                   <!-- Add 3 more logos as needed -->
                   <div class="col-4 col-sm-4 col-6 text-center">
-                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 18.png" alt="Partner 3"
+                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/client/hiring-p3.png" alt="Partner 3"
                         class="img-fluid hiring-logo1">
                   </div>
                   <div class="col-4 col-sm-4 col-6 text-center">
-                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 19.png" alt="Partner 3"
+                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/client/hiring-p-5.png" alt="Partner 3"
                         class="img-fluid hiring-logo1">
                   </div>
                   <div class="col-4 col-sm-4 col-6 text-center">
@@ -154,7 +154,7 @@ hiring partner images or logo section -->
          <!-- Logo Item -->
          <div class="col-6 col-sm-4 col-md-3 col-lg-2 text-center">
             <div class="p-3 border rounded shadow-sm bg-white">
-               <img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 17.png"
+               <img src="<?php echo get_template_directory_uri(); ?>/assets/images/client/hiring-p6.png"
                   class="img-fluid client-logo" alt="Adani Power">
             </div>
          </div>
